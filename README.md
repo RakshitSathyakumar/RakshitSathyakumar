@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RakshitSathyakumar
-- 👀 I’m interested in .coding maths..
-- 🌱 I’m currently learning ..python c++ javascript html css.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...insta=@rakshit_2002
+- 👀 I’m interested in web development and Competitive programming
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on an open source project
+- 📫 How to reach me insta::@rakshit_2002 or linkedIn Rakshit Sathyakumar
 
 <!---
 RakshitSathyakumar/RakshitSathyakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
