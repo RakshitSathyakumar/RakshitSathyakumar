@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakshitSathyakumar
 - 👀 I’m interested in web development and Competitive programming
-- 🌱 I’m currently learning React hooks
+- 🌱 I’m currently learning Redux and TypeScript
 - 💞️ I’m looking to collaborate on an open source project
 - 📫 How to reach me at linkedIn Rakshit Sathyakumar
 
