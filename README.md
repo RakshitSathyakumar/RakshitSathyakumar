@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RakshitSathyakumar
+- 👋 Hi, I’m Rakshit
 - 👀 I’m interested in web development and Competitive programming
 - 🌱 I’m currently learning Redux and TypeScript
 - 💞️ I’m looking to collaborate on an open source project
